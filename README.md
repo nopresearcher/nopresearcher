@@ -64,3 +64,10 @@ Badges from https://github.com/Ileriayo/markdown-badges
   <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
+
+### Hacker Stats
+
+<p align="center">
+  ![nopper](https://www.hackthebox.eu/badge/image/1411)
+  [WeChall](https://www.wechall.net/profile/NOPresearcher "WeChall")
+</p>

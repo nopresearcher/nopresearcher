@@ -69,7 +69,7 @@ Badges from https://github.com/Ileriayo/markdown-badges
 
 <p align="center">
   <img alt="nopper" src="https://www.hackthebox.eu/badge/image/1411" />
-  <img alt="WeChall" src="https://www.wechall.net/tpl/wc4/img/logo_wc4.gif" />
-  <img alt="Unix Badge" src="https://assets.pentesterlab.com/badges/introduction.png" />
-  <img alt="Unix Badge" src="https://assets.pentesterlab.com/badges/unix.png" />
+  <a href="https://www.wechall.net/profile/NOPresearcher"> <img alt="WeChall" src="https://www.wechall.net/tpl/wc4/img/logo_wc4.gif" width="70" height="70" /> </a>
+  <img alt="Unix Badge" src="https://assets.pentesterlab.com/badges/introduction.png" width="70" height="70" />
+  <img alt="Unix Badge" src="https://assets.pentesterlab.com/badges/unix.png" width="70" height="70" />
 </p>
